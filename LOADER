@@ -1,3 +1,5 @@
+--W scripts
+
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Brainrot-Arrow/refs/heads/main/Brainrot"))()
 end)
@@ -12,4 +14,12 @@ end)
 
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/XRAY/refs/heads/main/xray"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Speed/refs/heads/main/Speed"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/FLASHTP/refs/heads/main/FLASHTP"))()
 end)
