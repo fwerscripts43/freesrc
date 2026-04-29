@@ -1,0 +1,11 @@
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Brainrot-Arrow/refs/heads/main/Brainrot"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Animation-/refs/heads/main/AnimPauser"))()
+end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/src01/refs/heads/main/sryz"))()
+end)
