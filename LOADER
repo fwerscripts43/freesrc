@@ -9,3 +9,7 @@ end)
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/src01/refs/heads/main/sryz"))()
 end)
+
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/XRAY/refs/heads/main/xray"))()
+end)
