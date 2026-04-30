@@ -1,9 +1,9 @@
 --W scripts
-
+--tracks brainrots
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Brainrot-Arrow/refs/heads/main/Brainrot"))()
 end)
-
+--anim disabler
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Animation-/refs/heads/main/AnimPauser"))()
 end)
@@ -15,11 +15,11 @@ end)
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/XRAY/refs/heads/main/xray"))()
 end)
-
+--speed booster
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/Speed/refs/heads/main/Speed"))()
 end)
-
+--flash teleport script
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/FLASHTP/refs/heads/main/FLASHTP"))()
 end)
