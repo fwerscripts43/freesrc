@@ -23,3 +23,8 @@ end)
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/FLASHTP/refs/heads/main/FLASHTP"))()
 end)
+
+--hub loader
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/fwerscripts43/LOADERV4/refs/heads/main/LOADER"))()
+end)
